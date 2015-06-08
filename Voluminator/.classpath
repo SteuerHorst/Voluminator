@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="experimental_not_meant_for_publication/|GUI/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="citygml4j.jar"/>
+	<classpathentry kind="lib" path="jaxb-api.jar"/>
+	<classpathentry kind="lib" path="jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="jsr173_1.0_api.jar"/>
+	<classpathentry kind="lib" path="sjsxp.jar"/>
+	<classpathentry kind="lib" path="activation.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
